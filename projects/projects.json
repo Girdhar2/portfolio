@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Rent-a-Home",
+    "desc": "Built Rent-a-Home for homestay search with interactive map-based listings. Enriched UX by incorporating user reviews.",
+    "image": "rentahome",
+    "category": "mern",
+    "links": {
+      "view": "https://rentahome-1dqo.onrender.com/",
+      "code": "https://github.com/Girdhar2/RENTaHOME"
+    }
+  },
+  {
+    "name": "Quora Clone",
+    "desc": "Developed a QnA webapp like Quora with full functionality.",
+    "image": "quoraclone",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/satyamshxkla/Quora-Clone",
+      "code": "https://github.com/satyamshxkla/Quora-Clone"
+    }
+  },
+  {
+    "name": "E-Commerce Product Recommender System(Flipkart)",
+    "desc": "Mitigated e-commerce’s cold-start challenge through Collaborative Filtering, magnifying new user engagement.",
+    "image": "ecom",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/satyamshxkla/Ecommerce-Product-Recommender-System",
+      "code": "https://github.com/satyamshxkla/Ecommerce-Product-Recommender-System"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "girdharportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://girdharmundra.netlify.app/",
+      "code": "https://github.com/Girdhar2/portfolio"
+    }
+  },
+  {
+    "name": "Crypto Hunter",
+    "desc": "Built a Cryptocurrency Tracker web-app with React.js, Material UI and ChartJS which is fully responsive. Data from CoinGecko API",
+    "image": "cryptohunter",
+    "category": "mern",
+    "links": {
+      "view": "https://girdhar2.github.io/Crypto-Hunter/",
+      "code": "https://github.com/Girdhar2/Crypto-Hunter"
+    }
+  }
+]
